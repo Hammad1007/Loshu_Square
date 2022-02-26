@@ -46,6 +46,7 @@ int main() {
 	system("Color B0");
 	
 	// declaring an array of size 3 x 3, means it has 3 rows and 3 columns
+	// Loshu Square is a 3 x 3 matrix
 	int arr[3][3];
 	
 	cout << "\t\t\tTaking input in the array\n";
@@ -67,4 +68,5 @@ int main() {
 	
 	system("Pause");
 	return 0;
-}
+
+} // end of main
