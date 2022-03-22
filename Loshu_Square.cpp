@@ -1,6 +1,8 @@
 #include <iostream>
 #include <conio.h>
 #include <stdlib.h>
+#include <fstream>
+#include <string.h>
 using namespace std;
 
 // make a function for taking input
