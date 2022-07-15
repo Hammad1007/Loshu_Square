@@ -1,7 +1,7 @@
 #include <iostream>
 #include <conio.h>
 #include <stdlib.h>
-#include <fstream>	// file handling
+//#include <fstream>	// file handling
 #include <string.h>
 
 using namespace std;
